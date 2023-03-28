@@ -1,4 +1,15 @@
 # EXchange
  An all in one utility app with tip calculator, currency calculator, currency exchange rates, a trip tracker and more.
-[Currency Calculator Proposal.docx.pdf](https://github.com/LPhilip-CS/EXchange/files/11090979/Currency.Calculator.Proposal.docx.pdf)
-[UserGuide.pdf](https://github.com/LPhilip-CS/EXchange/files/11090980/UserGuide.pdf)
+![Currency Calculator Proposal docx-1](https://user-images.githubusercontent.com/98559773/228283383-fa37c9ac-4490-4504-9ed0-c2c3a57b3598.jpg)
+![Currency Calculator Proposal docx-2](https://user-images.githubusercontent.com/98559773/228283387-76940496-004f-47b1-bd8b-81649df82649.jpg)
+![UserGuide-01](https://user-images.githubusercontent.com/98559773/228283425-063e4ca0-1b6f-4b8b-8b81-a6d30003c281.jpg)
+![UserGuide-02](https://user-images.githubusercontent.com/98559773/228283426-03ba42b1-00c0-47c6-b8fc-188dc784671c.jpg)
+![UserGuide-03](https://user-images.githubusercontent.com/98559773/228283427-4b6a3d0e-0466-4721-bd88-e477bbb0f6c6.jpg)
+![UserGuide-04](https://user-images.githubusercontent.com/98559773/228283430-56e6340c-3d03-452c-b0e8-4d78d3919314.jpg)
+![UserGuide-05](https://user-images.githubusercontent.com/98559773/228283432-aad6be8f-8ffe-4937-8164-e595e330cf38.jpg)
+![UserGuide-06](https://user-images.githubusercontent.com/98559773/228283433-a3c8d54d-a520-4471-ba78-cd90436cbde5.jpg)
+![UserGuide-07](https://user-images.githubusercontent.com/98559773/228283435-ef9179ea-26c8-4a24-987f-922dfe536ce1.jpg)
+![UserGuide-08](https://user-images.githubusercontent.com/98559773/228283439-283c2d75-290e-49ad-a37a-9ef97746b1d2.jpg)
+![UserGuide-09](https://user-images.githubusercontent.com/98559773/228283441-8beff5b1-7fd9-422d-be05-4af1f199c663.jpg)
+![UserGuide-10](https://user-images.githubusercontent.com/98559773/228283444-8a567852-351f-413b-9103-fb2c2dcbaf92.jpg)
+![UserGuide-11](https://user-images.githubusercontent.com/98559773/228283448-734e3cf4-7c0b-46af-95f3-44ab3d54835b.jpg)
